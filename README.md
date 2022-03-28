@@ -27,7 +27,7 @@
 
 ## Security and Auditing
 - [ ] solcurity - [Github](https://github.com/Rari-Capital/solcurity)
-- [ ] Security Best Practices - [Kernel] (https://kernel.community/en/resources/security)
+- [ ] Security Best Practices - [Kernel](https://kernel.community/en/resources/security)
 
 
 -----
