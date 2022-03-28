@@ -1,10 +1,17 @@
-# EVM Developer Checklist 
+# Blockchain Checklist 
 
-## Books and Resources
+## Ethereum
+
+- [ ] Ethereum Book - [Github](https://github.com/Bl0xhead/ethereumbook)
+- [ ] The Eth2 Book - [Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html#on-the-general-state-of-the-book)
+- [ ] EVM Illustrated - [PDF](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+- [ ] 
+
+-----
+## Solidity
 - [ ] [Solidity by Example](https://solidity-by-example.org/first-app/)
 - [ ] Solidity Notes - [Github](https://github.com/Bl0xhead/solidity-notes)
 - [ ] EVM-Book - [Github](https://github.com/Bl0xhead/EVM-Book)
-- [ ] Ethereum Book - [Github](https://github.com/Bl0xhead/ethereumbook)
 - [ ] Senior Solidity Engineer's [Book](https://solidity-book.netlify.app/)
 
 ------
@@ -35,3 +42,11 @@
 ## Tooling and Testing
 - [ ] Foundry Book - [Github](https://onbjerg.github.io/foundry-book/getting-started/installation.html)
 
+---
+
+## Blog's 
+- [ ] Hasu - [Link](https://hasu.blog/select-writing-and-research#ac3fbc31de264e70a83695889e83d6e0)
+- [ ] Vitalik - [Link](vitalik.ca)
+- [ ] Femboy Capital
+- [ ] Egirl Capital
+- [ ] Eth Research
