@@ -5,7 +5,6 @@
 - [ ] Ethereum Book - [Github](https://github.com/Bl0xhead/ethereumbook)
 - [ ] The Eth2 Book - [Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html#on-the-general-state-of-the-book)
 - [ ] EVM Illustrated - [PDF](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
-- [ ] 
 
 -----
 ## Solidity
@@ -25,6 +24,11 @@
 - [ ] [damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
 - [ ] immunify community challenges - [Immunify](https://github.com/immunefi-team/community-challenges)
 ----------
+
+## MEV
+- [ ] Awesome MEV Resource - [0xalpharush](https://github.com/0xalpharush/awesome-MEV-resources)
+
+----
 
 ## ZK 
 - [ ] awesome-starknet - [Github](https://github.com/gakonst/awesome-starknet)
@@ -48,5 +52,10 @@
 - [ ] Hasu - [Link](https://hasu.blog/select-writing-and-research#ac3fbc31de264e70a83695889e83d6e0)
 - [ ] Vitalik - [Link](vitalik.ca)
 - [ ] Femboy Capital
-- [ ] Egirl Capital
+- [ ] EGirl Capital
 - [ ] Eth Research
+
+
+---- 
+## Paper's
+- [ ] Blockchain Consensus Algorithms: A Survey - [arxiv](https://arxiv.org/pdf/2001.07091.pdf)
