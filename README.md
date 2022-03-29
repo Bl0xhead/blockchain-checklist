@@ -5,7 +5,7 @@
 - [ ] Ethereum Book - [Github](https://github.com/Bl0xhead/ethereumbook)
 - [ ] The Eth2 Book - [Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html#on-the-general-state-of-the-book)
 - [ ] EVM Illustrated - [PDF](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
-
+- [ ] Eth Wiki - [PoS](https://eth.wiki/concepts/proof-of-stake-faqs)
 -----
 ## Solidity
 - [ ] [Solidity by Example](https://solidity-by-example.org/first-app/)
